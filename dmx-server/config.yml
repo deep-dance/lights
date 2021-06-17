@@ -1,0 +1,5 @@
+settings:
+  - leds: 108
+  - leds_per_device: 12
+  - channels_per_device: 72
+  - dimMax: 100
